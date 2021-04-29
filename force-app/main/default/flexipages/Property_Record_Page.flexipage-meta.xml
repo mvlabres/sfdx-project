@@ -166,6 +166,11 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>PictureGalleryCard</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
                     <name>latField</name>
                     <value>Location__Latitude__s</value>
                 </componentInstanceProperties>
